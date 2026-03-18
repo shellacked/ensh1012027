@@ -6,8 +6,7 @@ title: "Course Overview"
 
 ## Instructor
 
-Lincoln Z. Shlensky  
-University of VictoriaInstructor: Lincoln Z. Shlensky  
+Instructor: Dr. Lincoln Z. Shlensky  
 University of Victoria
 
 ## Course Pages
