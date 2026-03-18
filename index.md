@@ -2,7 +2,7 @@
 layout: default
 title: "ENSH 101: Themes in Literature"
 ---
-# Course Overview — ENSH 101: Themes in Literature
+# Course Overview
 
 ## Instructor
 
