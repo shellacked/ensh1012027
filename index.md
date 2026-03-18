@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ENSH 101: Themes in Literature"
+title: "Course Overview"
 ---
 # Course Overview
 
