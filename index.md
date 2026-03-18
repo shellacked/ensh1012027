@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ENSH 101: Themes in Literature
+title: "ENSH 101: Themes in Literature"
 ---
 # ENSH 101: Themes in Literature
 
